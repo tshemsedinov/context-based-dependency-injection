@@ -1,2 +1,1 @@
-# context-based-dependency-injection
-Context-based dependency injection example
+# Context-based dependency injection example
